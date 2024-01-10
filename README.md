@@ -34,16 +34,16 @@ To install and run the project, follow these steps:
    -npm run schema
    -npm start
 
-##Video Walkthrough
+## Video Walkthrough
 [Video](https://watch.screencastify.com/v/R5vvhvvbIODrEO36nqbm)
 
-##Credits
+## Credits
 -U of T starter code
 -Code from miniproject in ORM module
 -classmate Bahar Ossareh coaching
 - [Link to Bahar's github](https://github.com/bahossdev)
 
-  ##License
+  ## License
   -MIT
 
 
