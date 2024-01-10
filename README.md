@@ -38,13 +38,13 @@ To install and run the project, follow these steps:
 [Video](https://watch.screencastify.com/v/R5vvhvvbIODrEO36nqbm)
 
 ## Credits
--U of T starter code
--Code from miniproject in ORM module
--classmate Bahar Ossareh coaching
+- U of T starter code
+- Code from miniproject in ORM module
+- classmate Bahar Ossareh coaching
 - [Link to Bahar's github](https://github.com/bahossdev)
 
   ## License
-  -MIT
+  - MIT
 
 
 
